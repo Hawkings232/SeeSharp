@@ -1,0 +1,21 @@
+{
+  "Inputs" : {
+    "input_image" : {
+      "MLFeatureShortDescription" : "--"
+    }
+  },
+  "Outputs" : {
+    "var_227" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "x_r" : {
+      "MLFeatureShortDescription" : "--"
+    }
+  },
+  "TrainingInputs" : {
+
+  },
+  "States" : {
+
+  }
+}

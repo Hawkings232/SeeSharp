@@ -1,0 +1,15 @@
+{
+  "originHash" : "1fcef63ded01300e97263ab5c70e2e6dfd3f0d2e2a747ccbe598dea5a0da3614",
+  "pins" : [
+    {
+      "identity" : "activityindicatorview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/exyte/ActivityIndicatorView",
+      "state" : {
+        "revision" : "36140867802ae4a1d2b11490bcbbefe058001d14",
+        "version" : "1.2.1"
+      }
+    }
+  ],
+  "version" : 3
+}
